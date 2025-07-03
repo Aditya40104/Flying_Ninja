@@ -1,0 +1,14 @@
+{
+  "name": "Flying Ninja",
+  "tagline": "Flying Ninja - Sharpen your agility and response time.",
+  "description": "Flying Ninja is a mind refreshing game that is built totally using rust and Makefile and little bit use of javascript and it is very good game one must play..",
+  "team": [
+    {
+      "name": "Aditya Kumar",
+      "email": "adityadav294@gmail.com"
+    }
+  ],
+  "demo_url": "j3fmm-5qaaa-aaaai-q3x6a-cai.icp0.io/",
+  "video_url": "https://youtu.be/Bzdq2oiWOk4",
+  "technologies": ["Rust", "Javascript", "Makefile"]
+}
